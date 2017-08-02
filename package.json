@@ -1,0 +1,8 @@
+{
+  "name": "twitter-clone",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "react-devtools": "^2.5.0"
+  }
+}
